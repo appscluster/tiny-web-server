@@ -30,6 +30,8 @@ Non-features
 Usage
 -----
 
+make -f Makefile
+
 `tiny <port>`, opens a server in the current directory, port
 default to 9999, just like `python -m SimpleHTTPServer`
 
